@@ -50,11 +50,11 @@
 		</plugins>
 	</build>
 	
-	<distributionManagement>
-	    <repository>
-	        <id>internal</id>
-	        <url>file://${project.build.directory}/mvn-repo</url>
-	    </repository>
-	</distributionManagement>
+<!-- 	<distributionManagement> -->
+<!-- 	    <repository> -->
+<!-- 	        <id>internal</id> -->
+<!-- 	        <url>file://${project.build.directory}/mvn-repo</url> -->
+<!-- 	    </repository> -->
+<!-- 	</distributionManagement> -->
 
 </project>
