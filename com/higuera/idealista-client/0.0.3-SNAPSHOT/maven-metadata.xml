@@ -12,12 +12,12 @@
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.3-SNAPSHOT</value>
+        <value>0.0.3-20180826.105504-1</value>
         <updated>20180826105504</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.3-SNAPSHOT</value>
+        <value>0.0.3-20180826.105504-1</value>
         <updated>20180826105504</updated>
       </snapshotVersion>
     </snapshotVersions>
